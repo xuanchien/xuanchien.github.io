@@ -12,7 +12,7 @@ body{
 	height: 100%;
 }
 #video-frame{
-	width: 500px;
+	width: 600px;
 	height: 300px;
 }
 #slider{
@@ -48,7 +48,7 @@ a {
 	text-decoration: none;
 }
 .right-panel{
-	margin-left: 510px;
+	margin-left: 610px;
 }
 #info{
 	border: 1px solid #95a5a6;
