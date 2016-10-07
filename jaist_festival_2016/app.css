@@ -1,6 +1,6 @@
 body{
 	font-family: 'Open Sans', sans-serif;
-	background-color: #e74c3c;
+	background-color: #c0392b;
 	padding: 0;
 	margin: 10;
 }
@@ -13,7 +13,12 @@ body{
 }
 #video-frame{
 	width: 600px;
-	height: 300px;
+	height: 350px;
+}
+#banner{
+	color: white;
+	text-align: center;
+	font-size: larger;
 }
 #slider{
 	margin-top: 10px;
@@ -53,7 +58,7 @@ a {
 #info{
 	border: 1px solid #95a5a6;
 	background-color: #ecf0f1;
-	height: 80%;
+	height: 85%;
 	position: relative;
 }
 #info h3{
@@ -63,9 +68,10 @@ a {
 }
 .info-text{
 	padding: 10px;
-	font-size: smaller;
+	font-size: large;
 }
 .info-text#ja{
+	font-size: larger;
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
